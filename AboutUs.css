@@ -1,0 +1,38 @@
+.card {
+    height: 200px;
+    width: 20%;
+    background-color: black;
+    float: left;
+    text-align: left;
+    border-style: solid;
+    color: whitesmoke;
+  }     
+body{
+    background-color:black;
+    color: whitesmoke
+}
+h2{
+    font-size: 30;
+    color: whitesmoke;
+}
+p{
+    font-size: 16;
+    color: whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

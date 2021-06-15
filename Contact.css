@@ -1,0 +1,24 @@
+.card {
+    height: 460px;
+    width: 20%;
+    background-color:plum;
+    float: left;
+    text-align: left;
+    border-style: solid;
+    color: whitesmoke;
+  }     
+body{
+    background-image:url(sky2.jpg);
+
+    color: whitesmoke
+}
+h2{
+    font-size: 30;
+    color: whitesmoke;
+    font-family:cursive;
+}
+p{
+    font-size: 16;
+    color: whitesmoke;
+    font-family:cursive;
+}

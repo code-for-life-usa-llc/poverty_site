@@ -1,0 +1,108 @@
+body{
+background-image:url(BackgroundImage3.jpg);
+background-size:cover;
+margin:0;
+padding:0;
+font-family: 'Roboto Mono', monospace;
+font-family:cursive;
+
+}
+
+
+
+
+.ThisImage{
+  width:600px;
+  height:400px;
+  overflow:hidden;
+  position:relative;
+  margin:200px auto;
+  margin-top: 100px;
+
+}
+
+.ThisImage img{
+  width:600px;
+  height:400px;
+  
+
+}
+
+.text{
+  color:white;
+  font-size:50px;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  text-shadow: 2px 2px 4px blue;
+
+}
+
+h1{
+    
+    font-size: 60;
+    font-family: cursive;
+    border-style:dashed;
+    color: blue;
+  text-shadow: 2px 2px 4px blue;
+   
+    
+}
+
+.header{
+    font-size: 30;
+    font-family: cursive;
+    color: white;
+    text-shadow: 3px 3px 6px rgb(30, 247, 10);
+    border-style:dashed;
+    margin: 100;
+    border-color: rgb(12, 12, 238);
+    
+    
+}
+
+p{
+    font-size: 20;
+    font-family: cursive;
+    color: black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  border-style:dashed;
+  margin:225;
+  border-color: brown
+  
+
+}
+
+
+.image{
+    border-style:dotted;
+    border:15px solid rgb(255, 255, 255);  
+    margin: 100px;
+
+}
+
+a{
+    color: White;
+}
+
+.desc{
+  color: black;
+  font-family: cursive;
+  font-size:20;
+}
+
+.gallery{
+border-style:dashed;
+border-color: rgb(2, 232, 248)
+col black;
+}
+
+.container-fluid{
+  font-family:cursive;
+}
+
+
+
+
+
